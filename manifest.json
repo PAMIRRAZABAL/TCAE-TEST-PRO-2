@@ -1,0 +1,6 @@
+{
+  "name": "TCAE Test Pro Premium",
+  "short_name": "TCAE",
+  "display": "standalone",
+  "start_url": "./"
+}
